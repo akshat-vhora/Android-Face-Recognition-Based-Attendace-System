@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1073233446542",
+    "firebase_url": "https://a-modz-container-default-rtdb.firebaseio.com",
+    "project_id": "a-modz-container",
+    "storage_bucket": "a-modz-container.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073233446542:android:e27d84247dd226df8cebdf",
+        "android_client_info": {
+          "package_name": "com.attendance.system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGkSmEt-CZYBW0bzIWfcE-GyIn74dLs8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
