@@ -10,6 +10,20 @@ An Android application that automates attendance taking using face recognition. 
 - Generate attendance reports
 - Simple and easy-to-use UI
 
+## Screenshots
+
+Image 1 — Login / Sign In screen  
+![Image 1 - Login Screen](assets/screenshots/screenshot1.png)
+
+Image 2 — Select Attendance Details screen (year/session/day/time/subject)  
+![Image 2 - Select Attendance Details](assets/screenshots/screenshot2.png)
+
+Image 3 — Admin / Face Data, Practicals and Student Count screens  
+![Image 3 - Admin / Face Data and Practicals](assets/screenshots/screenshot3.png)
+
+Image 4 — Attendance Details with face detection grid & Save Attendance button  
+![Image 4 - Attendance Details / Face Grid](assets/screenshots/screenshot4.png)
+
 ## Tech Stack
 - Java (Android)
 - OpenCV (image processing)
